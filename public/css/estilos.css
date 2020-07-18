@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Bellota+Text&display=swap');
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Bellota Text', cursive;
+}
+
+footer {
+    color: white;
+}
+
+.f-icon:hover {
+    opacity: 0.5;
+}
+
+p a {
+    color: white;
+}
